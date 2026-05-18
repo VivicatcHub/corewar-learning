@@ -7,3 +7,6 @@
 [submodule "apollon"]
 	path = apollon
 	url = https://github.com/VivicatcHub/corewar-learning-apollon
+[submodule "expension"]
+	path = expension
+	url = https://github.com/VivicatcHub/corewar-learning-expension
