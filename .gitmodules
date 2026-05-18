@@ -4,3 +4,6 @@
 [submodule "icarus"]
 	path = icarus
 	url = https://github.com/VivicatcHub/corewar-learning-icarus
+[submodule "apollon"]
+	path = apollon
+	url = https://github.com/VivicatcHub/corewar-learning-apollon
