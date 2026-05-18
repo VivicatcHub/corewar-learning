@@ -1,3 +1,6 @@
 [submodule "panda"]
 	path = panda
 	url = https://github.com/VivicatcHub/corewar-learning-panda
+[submodule "icarus"]
+	path = icarus
+	url = https://github.com/VivicatcHub/corewar-learning-icarus
