@@ -13,3 +13,6 @@
 [submodule "mandom"]
 	path = mandom
 	url = https://github.com/VivicatcHub/corewar-learning-mandom
+[submodule "migi"]
+	path = migi
+	url = https://github.com/VivicatcHub/corewar-learning-migi
