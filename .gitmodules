@@ -16,3 +16,6 @@
 [submodule "migi"]
 	path = migi
 	url = https://github.com/VivicatcHub/corewar-learning-migi
+[submodule "hypnobrai"]
+	path = hypnobrai
+	url = https://github.com/VivicatcHub/corewar-learning-hypnobrai
