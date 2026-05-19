@@ -10,3 +10,6 @@
 [submodule "expension"]
 	path = expension
 	url = https://github.com/VivicatcHub/corewar-learning-expension
+[submodule "mandom"]
+	path = mandom
+	url = https://github.com/VivicatcHub/corewar-learning-mandom
