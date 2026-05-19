@@ -19,3 +19,6 @@
 [submodule "hypnobrai"]
 	path = hypnobrai
 	url = https://github.com/VivicatcHub/corewar-learning-hypnobrai
+[submodule "littleboy"]
+	path = littleboy
+	url = https://github.com/VivicatcHub/corewar-learning-littleboy
